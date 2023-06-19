@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: a31a72b48919d21478e6978f8ead21d4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerMob: {instanceID: 0}
+  - playerSuperMob: {instanceID: 0}
+  - mobTarget: {instanceID: 0}
+  - enemyTarget: {instanceID: 0}
+  - enemyMob: {instanceID: 0}
+  - tower: {instanceID: 0}
+  - towerNumberText: {instanceID: 0}
+  - cannon: {instanceID: 0}
+  - cannonEnergyImage: {instanceID: 0}
+  - gold: {instanceID: 0}
+  - black: {fileID: 2100000, guid: 2ec982eb34410e04cb878e456c9d193e, type: 2}
+  - scoreText: {instanceID: 0}
+  - levelText: {instanceID: 0}
+  - endLevelPanelUI: {instanceID: 0}
+  - failedLevelPanelUI: {instanceID: 0}
+  - homePanelUI: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
